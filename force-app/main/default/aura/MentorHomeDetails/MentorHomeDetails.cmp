@@ -1,0 +1,10 @@
+<aura:component implements="flexipage:availableForAllPageTypes,force:appHostable,forceCommunity:availableForAllPageTypes" access="global" >
+    <div class="slds-card">
+        <lightning:tabset variant="scoped">
+            <lightning:tab label="Employee Details" class="tabStyle">
+            </lightning:tab>
+            <lightning:tab label="Create Step" class="tabStyle">
+            </lightning:tab>
+        </lightning:tabset>
+    </div>
+</aura:component>
