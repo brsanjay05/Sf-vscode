@@ -1,3 +1,0 @@
-<apex:page >
-    {! $user.FirstName}
-</apex:page>
